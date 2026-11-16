@@ -16,6 +16,8 @@
 - [Находки в опенсорсе: чат](https://t.me/opensource_findings_chat) – чат про опенсорс, python и устройство технологий.
 - [FastNews | Chat](https://t.me/fastnewsdev_chat) - флудилка про AI для обсуждения лучших практик и инструментов.
 - [FastStream](https://t.me/python_faststream) - русскоязычный чат про FastStream и работу с брокерами сообщений в Python.
+- [Ship IT! Boardgame](https://t.me/ship_it_boardgame) - чат [настольной игры](https://github.com/sobolevn/ship-it-boardgame) про IT от Никиты Соболева. Лучше всего с 🍻
+- [PythoNN](https://t.me/pytho_nn) - сообщество питонистов в Нижнем Новгороде.
 - [Taskiq.py](https://t.me/taskiq_py) - русскоязычный чат про Taskiq и работу с брокерами сообщений в Python.
 
 ## Youtube каналы
@@ -26,4 +28,4 @@
 
 ## События
 
-- [PythoNN](https://t.me/pytho_nn) - сообщество питонистов в Нижнем Новгороде.
+- [PythoNN: анонсы](https://t.me/pytho_nn_events) - анонсы пайтон митапов в Нижнем Новгороде.
