@@ -16,4 +16,6 @@
 
 ## Youtube каналы
 
+- [Никита Соболев](https://www.youtube.com/@sobolev) – канал про опенсорс, python и устройство технологий.
+- [Вялые питоны](https://www.youtube.com/@SluggishPythons) – развлекательные стримы от нашего сообщества.
 - [PyLounge](https://www.youtube.com/@pylounge) - программирование на Python и всё об Айти.
