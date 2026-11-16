@@ -8,7 +8,12 @@
 - [Находки в опенсорсе](https://t.me/opensource_findings) – канал про опенсорс, python и устройство технологий.
 - [Находки в опенсорсе: Python](https://t.me/opensource_findings_python) – канал с простыми задачами в опенсорсе из Python мира.
 - [римская империя агентской инженерии](https://t.me/goduniblog) – авторский канал про AI-агентов, агентскую инженерию и разработку с ИИ.
+- [PyLounge](https://t.me/pylounge) – программирование на Python и всё об Айти.
 
 ## Телеграм чаты
 
 - [Находки в опенсорсе: чат](https://t.me/opensource_findings_chat) – чат про опенсорс, python и устройство технологий.
+
+## Youtube каналы
+
+- [PyLounge](https://www.youtube.com/@pylounge) - программирование на Python и всё об Айти.
