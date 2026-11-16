@@ -16,6 +16,7 @@
 - [Находки в опенсорсе: чат](https://t.me/opensource_findings_chat) – чат про опенсорс, python и устройство технологий.
 - [FastNews | Chat](https://t.me/fastnewsdev_chat) - флудилка про AI для обсуждения лучших практик и инструментов.
 - [FastStream](https://t.me/python_faststream) - русскоязычный чат про FastStream и работу с брокерами сообщений в Python.
+- [Ship IT! Boardgame](https://t.me/ship_it_boardgame) - чат настольной игры про IT от Никиты Соболева. Лучше всего с 🍻
 
 ## Youtube каналы
 
