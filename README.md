@@ -18,6 +18,7 @@
 - [FastStream](https://t.me/python_faststream) - русскоязычный чат про FastStream и работу с брокерами сообщений в Python.
 - [Ship IT! Boardgame](https://t.me/ship_it_boardgame) - чат [настольной игры](https://github.com/sobolevn/ship-it-boardgame) про IT от Никиты Соболева. Лучше всего с 🍻
 - [PythoNN](https://t.me/pytho_nn) - сообщество питонистов в Нижнем Новгороде.
+- [Taskiq.py](https://t.me/taskiq_py) - русскоязычный чат про Taskiq и работу с брокерами сообщений в Python.
 
 ## Youtube каналы
 
