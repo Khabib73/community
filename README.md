@@ -1,2 +1,14 @@
-# community
-List of community channels / chats / events
+# Сообщество
+
+Список каналов, чатов и событий сообщества.
+
+
+## Телеграм каналы
+
+- [Находки в опенсорсе](https://t.me/opensource_findings) – канал про опенсорс, python и устройство технологий.
+- [Находки в опенсорсе: Python](https://t.me/opensource_findings_python) – канал с простыми задачами в опенсорсе из Python мира.
+
+
+## Телеграм чаты
+
+- [Находки в опенсорсе: чат](https://t.me/opensource_findings_chat) – чат про опенсорс, python и устройство технологий.
